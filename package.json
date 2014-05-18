@@ -1,0 +1,32 @@
+{
+  "name": "gulp-ngconcat",
+  "version": "0.0.0",
+  "description": "The grunt plugin of easy to use concatination for Angular based projects",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "cd test && mocha *.js -R list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:galkinrost/grunt-ngconcat.git"
+  },
+  "keywords": [
+    "gulp",
+    "concat",
+    "angular"
+  ],
+  "author": "galkinrost@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galkinrost/grunt-ngconcat/issues"
+  },
+  "dependencies": {
+    "ngconcat": "0.0.2",
+    "chalk": "~0.4.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0"
+  }
+}
