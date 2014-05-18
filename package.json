@@ -21,7 +21,7 @@
     "url": "https://github.com/galkinrost/grunt-ngconcat/issues"
   },
   "dependencies": {
-    "ngconcat": "0.0.2",
+    "ngconcat": "0.0.3",
     "chalk": "~0.4.0"
   },
   "devDependencies": {
