@@ -1,6 +1,6 @@
 {
   "name": "grunt-ngconcat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The grunt plugin of easy to use concatination for Angular based projects",
   "main": "Gruntfile.js",
   "scripts": {
